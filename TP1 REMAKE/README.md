@@ -5,9 +5,9 @@
  //Sonia Luna
 //David Lago
 //Magariños Alan
-//CONSIGNAS
 
-/*
+
+/* CONSIGNAS
  *	Trabajo Práctico 1: Cronómetro Binario
  *
  *	Al iniciar la simulacion, todos los led deben comenzar apagados.
