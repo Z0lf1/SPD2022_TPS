@@ -1,10 +1,11 @@
 
  Grupo: _Undefined_
 
- Integrantes: Sonia Luna
-	      David Lago
-	      Magariños Alan
-CONSIGNAS
+ Integrantes: 
+ // *Sonia Luna
+ // *David Lago
+//  *Magariños Alan
+//CONSIGNAS
 
 /*
  *	Trabajo Práctico 1: Cronómetro Binario
