@@ -2,9 +2,9 @@
  Grupo: _Undefined_
 
  Integrantes: 
- // *Sonia Luna
- // *David Lago
-//  *Magariños Alan
+ //Sonia Luna
+//David Lago
+//Magariños Alan
 //CONSIGNAS
 
 /*
