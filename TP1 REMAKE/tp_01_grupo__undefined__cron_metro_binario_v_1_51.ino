@@ -49,7 +49,7 @@ const int DELAY_BOTONES = 100;
 const int DELAY_LEDS = 100;
 const int DELAY_CONTADOR = 1000;
 
-int contador = ZERO_TO_HERO;
+int contador = ZERO_TO_HERO;//INICIALIZA EN CERO POR DEFINE
 
 const int leds_arr[TOTAL_LED] = {4, 5, 6, 7, 8, 9, 10, 11, 12, 13};
 
@@ -100,7 +100,7 @@ void loop() {
     if (millis() - ultimo_tiempo_contador >= DELAY_CONTADOR) {
       if (contador >= MAX_SECONDS) {
         pausa = 1;
-        contador = ZERO_TO_HERO;
+        contador = ZERO_TO_HERO; //ESTABLECE EN CERO POR DEFINE
         tarea_leds(contador, TOTAL_LED);
         return;
       }
