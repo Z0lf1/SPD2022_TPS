@@ -1,5 +1,10 @@
 /*
  *	Trabajo Práctico 1: Cronómetro Binario
+ * 	INTEGRAN3:
+ *
+ *	David Lago
+ *	Sonia Luna
+ *	Alan Magariños
  *
  *	Al iniciar la simulacion, todos los led deben comenzar apagados.
  *	Cada 1 segundo que transcurra, se deben encender los led
