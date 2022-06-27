@@ -68,6 +68,7 @@ void setup() {
 /* Inicializa pausado (en 1)
 No ejecuta tareas que cuentan y prenden LEDS,
 solo checkea el estado de los botones.*/
+
 void loop() {
 
 
@@ -99,7 +100,7 @@ void loop() {
     if (millis() - ultimo_tiempo_contador >= DELAY_CONTADOR) {
       if (contador >= MAX_SECONDS) {
         pausa = 1;
-        contador = 0;
+        contador = ZERO_TO_HERO;
         tarea_leds(contador, TOTAL_LED);
         return;
       }
